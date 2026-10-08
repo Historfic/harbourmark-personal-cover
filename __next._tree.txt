@@ -1,0 +1,5 @@
+:HL["/harbourmark-personal-cover/_next/static/chunks/12n18dmgd3e6_.css","style"]
+:HL["/harbourmark-personal-cover/_next/static/media/c41ca59f1c34ba31-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/harbourmark-personal-cover/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"m7Br2k0qVni3bpDUALt3m","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
